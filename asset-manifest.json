@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.d485cda3.css",
+    "main.js": "/quiz/static/js/main.84b3adf0.js",
+    "static/media/beach.jpg": "/quiz/static/media/beach.9fcddca407667a5afc5e.jpg",
+    "index.html": "/quiz/index.html",
+    "main.d485cda3.css.map": "/quiz/static/css/main.d485cda3.css.map",
+    "main.84b3adf0.js.map": "/quiz/static/js/main.84b3adf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d485cda3.css",
+    "static/js/main.84b3adf0.js"
+  ]
+}
