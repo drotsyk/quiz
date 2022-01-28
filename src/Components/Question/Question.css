@@ -1,0 +1,34 @@
+.question {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 50%;
+}
+.question__name {
+  margin: 20px 0;
+  font-size: 20px;
+  min-height: 40px;
+}
+.question__title {
+  margin: 10px;
+  font-size: 24px;
+}
+.question__number {
+  font-size: 20px;
+}
+.question__btn button {
+  background-color: rgb(86, 199, 243);
+  min-width: 200px;
+  border-radius: 20px;
+  height: 40px;
+  transition: 0.2s ;
+  margin: 20px;
+}
+.question__btn button:hover {
+  background-color: rgb(82, 175, 54);
+  color: white;
+}
